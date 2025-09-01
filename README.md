@@ -26,6 +26,8 @@ Ce projet a été créé en 2024. Il s'agit d'un système de **prise de présenc
    - Tous les étudiants
    - Étudiants présents
    - Étudiants absents
+
+
 ![Face Recognition](./face-rec.png)
 ---
 Copyright © 2024, All Rights Reserved For ELKADDI-Solutions
